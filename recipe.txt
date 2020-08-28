@@ -2,3 +2,4 @@ mash avocados
 chop tomatoes
 add lemon juice
 add hot sauce
+do not add onion
